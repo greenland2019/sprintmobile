@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Reclamation/reclamation.java</file>
+            <file>jar:file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/lib/CodenameOne_SRC.zip!/com/codename1/charts/util/ColorUtil.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Commande/AllProduit.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Personne/PersonneService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/Communaute/Promotion.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Communaute/PromotionService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/commande/Produit.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Commande/HomeForm.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Accueil/Accueil.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Communaute/EvenementService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Reclamation/AddReclamation.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Commande/PanierDetail.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Commande/ProduitDetail.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/Communaute/Participation.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Communaute/Communaute.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Commande/PanierService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Commande/ProduitService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/reclamation/Reclamation.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Reclamation/Areclamation.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/commande/Commande.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Commande/BaseForm.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Commande/CommandeService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/commande/Panier.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Accueil/Login.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/GUI/Reclamation/Statics.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/Communaute/Evenement.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Service/Reclamation/ReclamationService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/User/Personne.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Eplants-mo/src/Entity/User/UserSession.java</file>
+        </group>
+    </open-files>
+</project-private>
